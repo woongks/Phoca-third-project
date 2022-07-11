@@ -1,7 +1,7 @@
 # 팀 DEVMON
 
-서비스 이름: Phoca 🦭
-인공지능 기술: 이미지 처리
+서비스 이름: Phoca  
+인공지능 기술: 이미지 처리  
 팀원: 김은혜 조인철 백지유 이창민 남혜민 김신웅
 
 ![Untitled](https://github.com/woongks/Phoca-third-project/blob/main/README/%ED%97%A4%EB%8D%94.png)
