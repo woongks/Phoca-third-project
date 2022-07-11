@@ -82,12 +82,12 @@
 
 ## 🤖 AI
 
-- `**Flask**`
+- **`Flask`**
   - tensorflow.js라는 선택지도 있었지만 Python-to-JavaScript 보다 Python-to-Python이 더 코드가 용이하고 가볍다는 판단을 하였습니다.
-- `**YOLO**`
+- **`YOLO`**
   - 1-Stage Detector기 때문에 위치를 찾는 문제(localization)와 분류(classification) 문제를 한번에 해결 가능합니다.
   - 위와 같은 이유로 2-Stage Detector보다 가볍고 빠릅니다.
-- `**MobileNet**`
+- **`MobileNet`**
   - 고성능이 아닌 환경에서도 잘 돌아가야 하기 때문에 선택하였습니다.
 
 
