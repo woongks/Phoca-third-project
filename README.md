@@ -1,10 +1,10 @@
-# [6팀] DEVMON
+# 팀 DEVMON
 
 서비스 이름: Phoca 🦭
 인공지능 기술: 이미지 처리
 팀원: 김은혜 조인철 백지유 이창민 남혜민 김신웅
 
-![Untitled](%5B6%E1%84%90%E1%85%B5%E1%86%B7%5D%20DEVMON%209bdeb5b2a72b4e8f85ec6bb49543b0c3/Untitled.png)
+![Untitled](https://github.com/woongks/Phoca-third-project/blob/main/README/%ED%97%A4%EB%8D%94.png)
 
 📝 **목차**
 
@@ -12,15 +12,11 @@
 
 ---
 
-[시연영상 크롭.mp4](%5B6%E1%84%90%E1%85%B5%E1%86%B7%5D%20DEVMON%209bdeb5b2a72b4e8f85ec6bb49543b0c3/%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81_%ED%81%AC%EB%A1%AD.mp4)
+[시연영상.mp4](https://github.com/woongks/Phoca-third-project/blob/main/README/%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81.mp4)
 
-# 1. GitLab 링크
 
----
 
-[Sign in](https://kdt-gitlab.elice.io/ai_track/class_04/ai_project/team6/ai-project)
-
-# 2. 서비스 소개
+# 서비스 소개
 
 ---
 
@@ -94,9 +90,6 @@
 - `**MobileNet**`
   - 고성능이 아닌 환경에서도 잘 돌아가야 하기 때문에 선택하였습니다.
 
-## 💥 트러블 슈팅
-
-[Trouble Shooting](https://www.notion.so/5791663a482c4992a9d63abc877e1fe0)
 
 # 4. 프로젝트 구조도
 
@@ -104,11 +97,11 @@
 
 ## 🗃 시스템 아키텍처
 
-![Untitled](%5B6%E1%84%90%E1%85%B5%E1%86%B7%5D%20DEVMON%209bdeb5b2a72b4e8f85ec6bb49543b0c3/Untitled%201.png)
+![Untitled](https://github.com/woongks/Phoca-third-project/blob/main/README/%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98.png)
 
 ## 🛠 ER-Diagram
 
-![https://user-images.githubusercontent.com/59808674/176872435-04b84c54-7552-4814-9825-e51f71d738c7.png](https://user-images.githubusercontent.com/59808674/176872435-04b84c54-7552-4814-9825-e51f71d738c7.png)
+![Untitled](https://github.com/woongks/Phoca-third-project/blob/main/README/erd.jpg)
 
 ## 🖼 와이어프레임
 
@@ -131,13 +124,13 @@
   - 단어장 보러가기 / 단어 퀴즈 보러가기 버튼 클릭 시 로그인 요청 모달 띄움
     (제한 : 로그인 안 했을 때)
 
-![22.gif](%5B6%E1%84%90%E1%85%B5%E1%86%B7%5D%20DEVMON%209bdeb5b2a72b4e8f85ec6bb49543b0c3/22.gif)
+![메인.gif](https://github.com/woongks/Phoca-third-project/blob/main/README/%EB%A9%94%EC%9D%B8.gif)
 
 - **[ 학습 가이드 페이지 ]**
   - 각 기능 소개
     (단어장 만들기, 단어장 보러가기, 그림퀴즈 하러가기, 단어퀴즈 하러가기)
 
-![가이드.gif](%5B6%E1%84%90%E1%85%B5%E1%86%B7%5D%20DEVMON%209bdeb5b2a72b4e8f85ec6bb49543b0c3/%EA%B0%80%EC%9D%B4%EB%93%9C.gif)
+![가이드.gif](https://github.com/woongks/Phoca-third-project/blob/main/README/%EA%B0%80%EC%9D%B4%EB%93%9C.gif)
 
 - **[ 단어장 만들기 ]**
   - `/word/upload` 페이지
@@ -159,7 +152,7 @@
       (이름, 공개 여부)
     - 단어장 목록 선택 모달에서 단어장 선택 후 저장하면 단어장에 단어가 저장됨
 
-![단어장만들기.gif](%5B6%E1%84%90%E1%85%B5%E1%86%B7%5D%20DEVMON%209bdeb5b2a72b4e8f85ec6bb49543b0c3/%EB%8B%A8%EC%96%B4%EC%9E%A5%EB%A7%8C%EB%93%A4%EA%B8%B0.gif)
+![단어장만들기.gif](https://github.com/woongks/Phoca-third-project/blob/main/README/%EB%8B%A8%EC%96%B4%EC%9E%A5%EB%A7%8C%EB%93%A4%EA%B8%B0.gif)
 
 - **[ 마이페이지 ]**
   - 회원 정보 확인 가능
@@ -173,14 +166,14 @@
     (이때 확인 모달을 띄워 회원 탈퇴 여부를 한 번 더 물음 => 실수 방지)
   - 회원 정보 수정 후 수정 완료 버튼 클릭 시 수정된 회원 정보가 저장됨
 
-![my.gif](%5B6%E1%84%90%E1%85%B5%E1%86%B7%5D%20DEVMON%209bdeb5b2a72b4e8f85ec6bb49543b0c3/my.gif)
+![단어장둘러보기.gif](https://github.com/woongks/Phoca-third-project/blob/main/README/%EB%8B%A8%EC%96%B4%EC%9E%A5%EB%91%98%EB%9F%AC%EB%B3%B4%EA%B8%B0.gif)
 
 - **[ 단어장 네트워크 페이지 ]**
   - 다른 사람의 공개된 단어장 목록 확인 가능
   - 하트 버튼 클릭 시 다른 사람의 단어장을 북마크에 저장 가능
   - 단어장 카드 클릭 시 단어장의 저장된 단어를 확인할 수 있는 `/vocabulary/[id]`로 이동
 
-![word1.gif](%5B6%E1%84%90%E1%85%B5%E1%86%B7%5D%20DEVMON%209bdeb5b2a72b4e8f85ec6bb49543b0c3/word1.gif)
+![내단어장.gif](https://github.com/woongks/Phoca-third-project/blob/main/README/%EB%82%B4%EB%8B%A8%EC%96%B4%EC%9E%A5.gif)
 
 - **[ 내 단어장/북마크 단어장 페이지 ]**
   - 내 단어장 페이지
@@ -194,7 +187,7 @@
     - 하트 버튼 클릭 시 북마크 해제 가능
     - 단어장 카드 클릭 시 단어장의 저장된 단어를 확인할 수 있는 `/vocabulary/[id]`로 이동
 
-![word11.gif](%5B6%E1%84%90%E1%85%B5%E1%86%B7%5D%20DEVMON%209bdeb5b2a72b4e8f85ec6bb49543b0c3/word11.gif)
+![내단어.gif](https://github.com/woongks/Phoca-third-project/blob/main/README/%EB%82%B4%EB%8B%A8%EC%96%B4.gif)
 
 - **[ 단어 페이지 ]**
   - 단어장에 저장된 단어의 정보 확인 가능
@@ -204,7 +197,7 @@
   - 휴지통 아이콘 버튼 클릭 시 단어 삭제 가능
     (이때 확인 모달을 띄워 단어 삭제 여부를 한 번 더 물음 => 실수 방지)
 
-![word.gif](%5B6%E1%84%90%E1%85%B5%E1%86%B7%5D%20DEVMON%209bdeb5b2a72b4e8f85ec6bb49543b0c3/word.gif)
+![그림퀴즈.gif](https://github.com/woongks/Phoca-third-project/blob/main/README/%EA%B7%B8%EB%A6%BC%ED%80%B4%EC%A6%88.gif)
 
 - **[ 그림 퀴즈 하러가기 페이지 ]**
   - 그림으로 그릴 영어 단어 확인 가능
@@ -213,7 +206,7 @@
   - 제출하기 버튼 클릭 시 그린 그림과 AI가 인식한 결과 비교해 결과 모달 띄움
     (문제로 주어진 단어와 뜻, AI가 예측한 단어 확인 가능)
 
-![word111.gif](%5B6%E1%84%90%E1%85%B5%E1%86%B7%5D%20DEVMON%209bdeb5b2a72b4e8f85ec6bb49543b0c3/word111.gif)
+![카드뒤집기.gif](https://github.com/woongks/Phoca-third-project/blob/main/README/%EC%B9%B4%EB%93%9C%EB%92%A4%EC%A7%91%EA%B8%B0.gif)
 
 - **[ 단어 퀴즈 하러가기 페이지 ]**
   - 단어 퀴즈 페이지 안내 카드
@@ -223,14 +216,12 @@
   - 단어장 외우기 버튼 클릭, 단어장 선택 후 단어를 외울 수 있는 `/wordQuiz/voca/[id]`로 이동
     (제한 : 단어장에 저장된 단어가 1개 이상일 때 가능)
 
-![https://user-images.githubusercontent.com/28249915/177251895-42d1110c-c791-439a-b9f6-4ae556938713.png](https://user-images.githubusercontent.com/28249915/177251895-42d1110c-c791-439a-b9f6-4ae556938713.png)
-
 - **[ 단어 짝 맞추기 게임 페이지 ]**
   - 단어장의 단어들로 짝 맞추기 게임 가능
   - 게임 종료 후 홈으로 버튼 클릭 시 메인 페이지인 `/`로 이동
   - 게임 종료 후 다시 할래요 버튼 클릭 시 단어 퀴즈 하러가기 페이지인 `/wordQuiz`로 이동
 
-![word111.gif](%5B6%E1%84%90%E1%85%B5%E1%86%B7%5D%20DEVMON%209bdeb5b2a72b4e8f85ec6bb49543b0c3/word111%201.gif)
+![단어장외우기.gif](https://github.com/woongks/Phoca-third-project/blob/main/README/%EB%8B%A8%EC%96%B4%EC%9E%A5%EC%99%B8%EC%9A%B0%EA%B8%B0.gif)
 
 - **[ 단어장 외우기 페이지 ]**
   - 단어장의 영어 단어들을 하나씩 확인 가능
@@ -253,7 +244,7 @@
     - 임시 비밀번호 발급 모달에서 회원가입 시 입력했던 이메일을 입력하면 해당 이메일로 임시 비밀번호 발급
     - kakao 로그인 가능
 
-![로그인 회원가입.gif](%5B6%E1%84%90%E1%85%B5%E1%86%B7%5D%20DEVMON%209bdeb5b2a72b4e8f85ec6bb49543b0c3/%EB%A1%9C%EA%B7%B8%EC%9D%B8_%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.gif)
+![로그인 회원가입.gif](https://github.com/woongks/Phoca-third-project/blob/main/README/%EB%A1%9C%EA%B7%B8%EC%9D%B8_%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.gif)
 
 # 6. 각 팀원의 역할과 기여한 부분
 
@@ -261,33 +252,10 @@
 
 | 이름   | 역할     | 담당 부분                  |
 | ------ | -------- | -------------------------- |
-| 김은혜 | 팀장, AI | 1. 프로젝트 진행 상황 확인 |
+| 김은혜 | 팀장, AI | 1. 프로젝트 진행 상황 확인 <br /> 2. 사물 인식 모델 적용 <br /> 3. Flask 서버 구축 <br /> 4. 시스템 아키텍처 제작 |
+| 조인철 | AI | 1. 그림 퀴즈 모델 적용 <br /> 2. 최종 발표 |
+| 백지유 | FE, 서기 | 1. UI/UX 디자인 <br /> 2. 기술 스택 관련 세팅(next.js, react-query, zustand, styletron) <br /> 3. 페이지 구현 <br /> - 단어장 만들기 <br /> - 단어 상세 정보 <br /> - 그림 퀴즈 하러가기 <br /> - 단어 퀴즈 하러가기 <br /> - 단어장 외우기 <br /> - 로그인/회원가입 <br /> 4. 스크럼 회의록 작성 및 Wiki 관리 <br /> 5. 페이지 구성도 제작 |
+| 남혜민 | BE | 1. DB 설계 및 관리 <br /> 2. API 설계 및 구현: 유저 및 인증 API 구현 <br /> 3.API 문서화 <br /> 4.인공지능 서버 배포 <br /> 5.중간발표 |
+| 김신웅 | BE | 1. API 설계 및 구현: 단어장, 단어, 퀴즈 API 구현 <br /> 2.백엔드 서버 배포 |
 
-2. 사물 인식 모델 적용
-3. Flask 서버 구축
-4. 시스템 아키텍처 제작 |
-   | 조인철 | AI | 1. 그림 퀴즈 모델 적용
-5. 최종 발표 |
-   | 백지유 | FE, 서기 | 1. UI/UX 디자인
-6. 기술 스택 관련 세팅(next.js, react-query, zustand, styletron)
-7. 페이지 구현
-
-- 단어장 만들기
-- 단어 상세 정보
-- 그림 퀴즈 하러가기
-- 단어 퀴즈 하러가기
-- 단어장 외우기
-- 로그인/회원가입
-
-4. 스크럼 회의록 작성 및 Wiki 관리
-5. 페이지 구성도 제작 |
-   | 이창민 | FE | |
-   | 남혜민 | BE | 1. DB 설계 및 관리
-6. API 설계 및 구현: 유저 및 인증 API 구현
-7. API 문서화
-8. 인공지능 서버 배포
-9. 중간발표 |
-   | 김신웅 | BE | 1. API 설계 및 구현: 단어장, 단어, 퀴즈 API 구현
-10. 백엔드 서버 배포 |
-
-[🔝 맨 위로](https://www.notion.so/6-DEVMON-d6e3b5a9c55345b291024665d924ce12)
+[🔝 맨 위로](https://github.com/woongks/Phoca-third-project)
